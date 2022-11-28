@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="HomoVec",
-    version="0.0.1",
+    name="homovec",
+    version="1.0.1",
     author="Andrei Geadau",
     author_email="andreigeadau@tudelft.nl",
     description="Python Homomorphic Encryption Library for Vectors."
